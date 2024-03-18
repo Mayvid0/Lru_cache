@@ -18,6 +18,6 @@ In preparation for an upcoming project, I explored LRU caching to optimize data 
 To use the LRU cache implementation:
 
 1. Clone the repository.
-2. Compile the C++ code (`g++ -o lru lru.cpp`).
+2. Compile the C++ code (`g++ -o lru Lru.cpp`).
 3. Run the executable (`./lru`) for sample operations.
 
