@@ -1,6 +1,6 @@
 # LRU Cache Implementation Exercise
 
-This repository contains a simple implementation of an LRU (Least Recently Used) cache in C++ using a doubly linked list and an unordered map. The purpose of this exercise is to deepen understanding of data structures and algorithms, particularly in caching strategies.
+This repository contains a simple implementation of an LRU (Least Recently Used) cache in C++ using a doubly linked list and an unordered map. The purpose of this exercise was to deepen understanding of data structures and algorithms, particularly in caching strategies.
 
 ## Motivation
 
